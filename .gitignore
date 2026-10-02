@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+vectorstore/
+data/document_registry.json
+.env
+.pytest_cache/
+.streamlit/
